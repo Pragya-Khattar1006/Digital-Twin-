@@ -1,0 +1,5 @@
+{
+  "name": "Digital Work Twin",
+  "description": "A React application that acts as a Digital Work Twin (DWT), processing incoming requests into concise briefs, agendas, and decision-ready time slots using the Gemini API.",
+  "requestFramePermissions": []
+}
